@@ -37,9 +37,9 @@ Using the pretrained model we tunned our few short siamese model to get more acc
 ## Acknowledgements
 
  - Mentor:[Alaa Bakhti](https://github.com/bachtn)
- - Contributor[Nikita Chistyakov](https://github.com/nikita-chistyakov)
- - Contributor[Skander Ben brik](https://github.com/Skander79)
- - Contributor[Ranjithavadivel] (https://github.com/Ranjithavadivel)
+ - Contributor:[Nikita Chistyakov](https://github.com/nikita-chistyakov)
+ - Contributor:[Skander Ben brik](https://github.com/Skander79)
+ - Contributor:[Ranjithavadivel] (https://github.com/Ranjithavadivel)
 
 
 
