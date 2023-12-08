@@ -1,11 +1,14 @@
 
-# Crop classifier using Few shot technique
+# Image classifier using Few Shot technique
 ## Overview
-A web application to classify crops based on thier similarities using few shot (siamese model) and pretrained model VGG16 used to predict the crop details.
+A web application to classify images based on their similarities using few shot (siamese model) and pretrained model VGG16 used to predict the image details.
+
+## Use Case
+To classify agriculture crops based on their similarities and to predict the crop details. Display results in a Web App using a web browser.
 
 ## Features
 #### Pretrained model
-Here user can to upload the crop image and in result field it will give the crop name , recommened soil type and alternative soil type.
+Here user can to upload the crop image and in result field it will give the crop name, recommened soil type, and alternative soil type.
 #### Siamese Model
 Here user sould give one query image and 3 support image using sieamese model it find the similarities between the crop and gives the query image and similar image. So that we can check the details of the similar crop in pretrained model
 #### Botanical AI assistant at your service 💬
